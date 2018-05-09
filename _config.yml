@@ -20,7 +20,7 @@ facebook: "#"
 youtube: "#"
 vimeo: "#"
 soundcloud: "#"
-google_drive_embed: '//docs.google.com/uc?'
+google_drive_embed: '//docs.google.com/uc?id='
 
 encoding: utf-8
 defaults:
