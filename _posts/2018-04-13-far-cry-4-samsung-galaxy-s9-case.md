@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1vw6TvluoQcDFOcVd0wkZoZ3YKmfTKLfd
+title: Far Cry 4 Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

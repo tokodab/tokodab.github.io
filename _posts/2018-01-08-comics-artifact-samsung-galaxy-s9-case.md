@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1HcDN7ReBBXQkfm0CA8gKdH2NX_qMwCEa
+title: Comics Artifact Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

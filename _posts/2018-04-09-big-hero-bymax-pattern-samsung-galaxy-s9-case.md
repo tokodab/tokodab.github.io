@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 13QeK-_Cejb9URH4eqweMtVvflxvjIaVy
+title: Big Hero Bymax Pattern Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

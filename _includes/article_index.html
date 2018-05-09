@@ -16,6 +16,10 @@
             {% if post.audio-embed %}
                 {{ post.audio-embed }}
             {% endif %}
+        {% elsif post.type == "product" %}
+                <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}" class="noline">
+                    <img src="{{ site.google_drive_embed }}{{ post.featimg }}" alt="{{ post.title }}">
+                </a>
         {% else %}
             {% if post.featimg %}
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}" class="noline">
@@ -30,6 +34,10 @@
                     <img src="http://img.youtube.com/vi/{{ post.yt-video-id }}/0.jpg" alt="{{ post.title }} thumbnail">
                 </a>
             {% endif %}
+        {% elsif post.type == "product" %}
+                <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}" class="noline">
+                    <img src="{{ site.google_drive_embed }}{{ post.featimg }}" alt="{{ post.title }}">
+                </a>
         {% else %}
             {% if post.featimg %}
                 <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/'}}" class="noline">

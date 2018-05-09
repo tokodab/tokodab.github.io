@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1Qb_151EngYq14uO_FDxdp45Fi0nmizBw
+title: Logic Bobby Tarantino Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

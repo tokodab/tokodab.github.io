@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 18zNxHh7sT3RD8zc4v63RJ2vofvZOWW9C
+title: Kirito & Asuna Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

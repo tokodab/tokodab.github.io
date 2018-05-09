@@ -1,5 +1,5 @@
-name: Twister
-description: a powerful jekyll theme
+name: Toko Dab
+description: Keren dengan casing beken
 url: #place url
 gems: [jekyll-paginate]
 baseurl: #place folder name if site is served in subfolder
@@ -11,7 +11,7 @@ category_dir: /category
 author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /img
-author_default_avatar: /profile-pic.jpg
+author_default_avatar: /tokodab-logo.png
 tumblr: "#"
 pinterest: "#"
 instagram: "#"
@@ -20,6 +20,7 @@ facebook: "#"
 youtube: "#"
 vimeo: "#"
 soundcloud: "#"
+google_drive_embed: '//docs.google.com/uc?'
 
 encoding: utf-8
 defaults:

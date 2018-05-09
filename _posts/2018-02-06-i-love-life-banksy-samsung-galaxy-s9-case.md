@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1p1p2HotMHLRqf0_M5exQBBqQ6bmHzzsP
+title: I Love Life Banksy Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

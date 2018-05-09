@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1fPFbwws_6_TUjzBB3GUN9fpPPOtiwoV7
+title: Black Iron Tarkus Yellow Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

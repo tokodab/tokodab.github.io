@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1qcArhONjPq71kOMV2VXEYtwIrsSlgv3U
+title: Johnny Depp Mona Lisa Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

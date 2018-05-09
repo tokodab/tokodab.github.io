@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1qsMkVX1Tbzy7du8MXrxM5Hz34tpYzJOL
+title: All Characters Pixar Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

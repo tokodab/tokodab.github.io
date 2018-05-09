@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 13SbWlcsWMt5o2eBYZte3YQdPd1MtA99N
+title: Fallout 4 Welcome Home Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

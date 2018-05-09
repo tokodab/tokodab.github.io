@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 15ow6pccAaNoZve46mM9VgnzQNGzTnTLc
+title: Deadpool Painting art Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

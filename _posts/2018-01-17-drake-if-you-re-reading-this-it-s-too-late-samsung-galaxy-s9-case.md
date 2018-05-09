@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1nLzFsiYgODBerUYyWqli0gukDbF0XFI8
+title: Drake If You're Reading This It's Too Late Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

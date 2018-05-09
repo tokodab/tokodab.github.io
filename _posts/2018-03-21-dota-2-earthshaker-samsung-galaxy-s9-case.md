@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1NfYL_cmZuOdHpLpx0HYEArM3Jo8XePA1
+title: Dota 2 Earthshaker Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

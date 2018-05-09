@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 160phCd5NPLQhvls_Kc8WqP06HNVZKleP
+title: Pabst Blue Ribbon Beer Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

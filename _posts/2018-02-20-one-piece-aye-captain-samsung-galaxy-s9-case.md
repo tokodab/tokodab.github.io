@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1HEfNrHQA5sG3EPazk63_sJeT4LGzuZQY
+title: One Piece Aye Captain Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

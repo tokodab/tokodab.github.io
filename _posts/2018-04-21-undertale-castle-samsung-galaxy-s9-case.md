@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1BpLAN1GJE0YQckYvil03jDDBd24c9qrj
+title: Undertale Castle Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

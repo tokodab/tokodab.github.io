@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1_Nkldgwvq4mJuL_tirHGVKhfqFN99kei
+title: Thor Avengers Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

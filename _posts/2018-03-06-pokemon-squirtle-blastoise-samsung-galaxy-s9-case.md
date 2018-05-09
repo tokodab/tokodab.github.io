@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1lD2WXOnSEHUAK7aaz2aTXu-i0BeXwBWw
+title: Pokemon Squirtle Blastoise Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

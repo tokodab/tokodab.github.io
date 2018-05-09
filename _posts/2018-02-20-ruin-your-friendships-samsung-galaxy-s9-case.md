@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1acGit_lCQC-2kbqayHSu-rhj0yrqoGvQ
+title: Ruin Your Friendships Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

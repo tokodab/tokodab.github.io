@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1oofNg81jYQF0NAvRtzaC7Zp5qUGGPAAL
+title: Spurs Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

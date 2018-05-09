@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1d-4OxlfgkQ7cUV6HqDgqHaeRm16jqzPi
+title: Maroon 5 Cartoon Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

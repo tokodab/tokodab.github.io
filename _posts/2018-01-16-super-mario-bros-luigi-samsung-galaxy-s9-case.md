@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 16X35nxQbDN0GsnVqv6W_WevkCoH-kI0Q
+title: Super Mario Bros Luigi Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

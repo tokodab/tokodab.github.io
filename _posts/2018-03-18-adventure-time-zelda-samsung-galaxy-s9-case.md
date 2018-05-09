@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1vf_10atJsGrdY_vibQOCAwZ6NjEW7h8m
+title: Adventure Time Zelda Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1Jd_k7eNM2_kmuSM6j4YrdxyRocQ-ojdk
+title: Mobile Legends Akai Panda Warrior Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 190Xqap5KPrfSSNkVcsrAHT_QId5t4tbm
+title: Naruto Jutsu Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

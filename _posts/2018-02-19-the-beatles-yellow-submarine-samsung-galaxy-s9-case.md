@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1D615eALZ3t5MYc04Y3v1nMaWP2jxo5nz
+title: The Beatles Yellow Submarine Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

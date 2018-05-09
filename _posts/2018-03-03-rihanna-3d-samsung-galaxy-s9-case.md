@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1U3l8MkfgijX1YeuYcascZ9yYPjqzcZfL
+title: Rihanna 3D Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

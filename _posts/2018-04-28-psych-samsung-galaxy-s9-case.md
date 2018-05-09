@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1fA4KFoE58fw6B6QXonxUrfgQ1sWghjY2
+title: Psych Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

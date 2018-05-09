@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1DKkuIxrtIhCzJAQ6vAgn4BaWqytY_e5G
+title: Zelda Logos Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

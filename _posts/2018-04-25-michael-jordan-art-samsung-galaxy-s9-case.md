@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1gkMt-9Pg9WiomsxNLxQHBI_rG1wN_8ta
+title: Michael Jordan Art Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

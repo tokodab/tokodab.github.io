@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1zWLSmi_NGScF4KUwaJ9oyWqThW-o9jmC
+title: Batman Pencil Art Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

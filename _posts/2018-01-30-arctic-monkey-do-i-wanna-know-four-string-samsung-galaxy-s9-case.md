@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 14ik6Ny1N967KoKLz1HtZn7sXVHv-Cv16
+title: Arctic Monkey Do I Wanna Know four String Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

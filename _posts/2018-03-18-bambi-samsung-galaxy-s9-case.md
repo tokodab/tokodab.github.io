@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 14M40cY4zZ5rEpT_Wq34QV-L3RAl2MVjO
+title: Bambi Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

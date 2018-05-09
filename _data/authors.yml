@@ -11,3 +11,7 @@
   id: person
   avatar: /profile-pic.jpg
   bio: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id, quidem.
+-
+  id: tokodab
+  name: Toko Dab
+  avatar: /tokodab-logo.png
