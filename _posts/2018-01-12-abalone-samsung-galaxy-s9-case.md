@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1a_k7PRMmUYpnYMnx2l1KLvMxpJzIq3AN
-title: Abalone Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1OIK38H28mFdhr5XRp6PdNgjzhma2zxlj
-title: Ariel Little Mermaid Sparkling Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1Occ9xGwQUC-ltOTk2nXmnGQ8rQQxVQ6H
-title: Donald Trump Donkey Hotey Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

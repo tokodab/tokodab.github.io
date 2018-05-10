@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1Mvd8kZPVMhQygtHUTfteIxSVcAlvIwuQ
-title: The Lego Batman Movie Joker Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

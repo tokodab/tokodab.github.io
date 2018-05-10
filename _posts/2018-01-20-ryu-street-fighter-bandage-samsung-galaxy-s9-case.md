@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1T93SWTGX5qYUKXvesw1iA0CAnNhyj9mL
-title: Ryu Street Fighter Bandage Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1njVYGKTQHHmF4xuAv8KaPT7anEd_31f-
-title: Zoella Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----
