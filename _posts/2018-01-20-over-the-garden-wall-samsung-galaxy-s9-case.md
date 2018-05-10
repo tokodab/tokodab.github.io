@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 1rhrNWGwo72WSKAB65tVnhWUEb3a3qbZp
+title: Over The Garden Wall Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---

@@ -1,0 +1,8 @@
+---
+author: tokodab
+type: product
+featimg: 18LbiuWPnsOYNU0xht2wrWDIwGGa0A92r
+title: X Men Gambit Samsung Galaxy S9 Case
+tags: [samsung, galaxy, s9]
+category: [samsung]
+---
