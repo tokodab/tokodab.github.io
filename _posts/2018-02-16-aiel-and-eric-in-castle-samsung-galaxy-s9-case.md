@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1hclfoHyORenf-uB-jTA9OhsD1rcj2HAH
-title: Aiel And Eric in Castle Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

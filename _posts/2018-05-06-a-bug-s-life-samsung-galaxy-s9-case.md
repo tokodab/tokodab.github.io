@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1j9i9kvN8f18n3qmv15uqzUJG4TZtNFCY
-title: A Bug's Life Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

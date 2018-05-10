@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1Ud8O1txjYlHv20K0-t-xgBKAszjBhxUL
-title: Trolls And I 2017 Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

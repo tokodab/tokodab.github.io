@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1E9yqbQIOIuJYoyWuUHsuKc0BVV5iO3OG
-title: Logic 1-800-273-8255 Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1_82UyVvOmsktwqPLQfjyng8rqvmrSy6l
-title: Jason and Friday Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

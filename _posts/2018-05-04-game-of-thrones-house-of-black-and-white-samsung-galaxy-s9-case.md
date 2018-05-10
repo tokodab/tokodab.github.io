@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1hdjsIbV1YQb-vCfU0dcRXuHKWo6PY-qy
-title: Game of Thrones House of Black and White Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

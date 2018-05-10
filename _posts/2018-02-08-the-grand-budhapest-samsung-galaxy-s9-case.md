@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1T16Ql7zIdPyt1WFNmbdmK1CukN7oi35k
-title: The Grand Budhapest Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1CGSzeiv-pRXxwfjGUnwxyf1L01UA4Dhw
-title: Breaking Bad Logo Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

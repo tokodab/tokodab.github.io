@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1IcTzqh_CQssL1Efz71RZA3r5VNBG-6YU
-title: Hamilton Boardway Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

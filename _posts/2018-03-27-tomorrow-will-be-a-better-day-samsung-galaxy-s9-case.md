@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1eMWJohSJ5qlIXQV316rvxX2x7g3MPE5o
-title: Tomorrow Will Be A Better Day Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

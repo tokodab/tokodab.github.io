@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1jhC9czWqWFT9kXUd42ZeMf5054jZLhcK
-title: Nerd With Mustache Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

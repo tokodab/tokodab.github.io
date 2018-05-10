@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 14B9kLfZ4hDpiy_m4WOEliAcvNvM3aIqv
-title: Movie Donnie Darko Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

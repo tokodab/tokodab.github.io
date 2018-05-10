@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1GvD1Dm0-eMut2VTjlTssTdEGALVSgD1d
-title: League Of Legends Veigar Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

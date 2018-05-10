@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1NnEhNDjATX3keunT9kSlHAXNyuft5zh7
-title: Dragon Ball Super SSGSS Vegito1 Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

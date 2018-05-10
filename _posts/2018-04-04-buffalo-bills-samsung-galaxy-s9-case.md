@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1418uBsnnVxOHQJ0hnXk9h9QWo1GDGKhg
-title: Buffalo Bills Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1EHy6wuj1bIHfQWT-EMvcKPh1UDoHjoGN
-title: Harley Quinn Comics Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1orTZ2jQp_9pn-aqXdprXHSCFGbxfB6lq
-title: Keep Calm and Play Basketball Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

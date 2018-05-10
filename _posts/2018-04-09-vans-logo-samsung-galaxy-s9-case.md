@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 10km36_SuRqxa8MW3hpeU_OxC1hc1koFu
-title: Vans logo Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

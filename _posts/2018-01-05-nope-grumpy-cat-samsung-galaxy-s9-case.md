@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 19gMhk8FPdY1diqfJ36a-T-idXflDcNFo
-title: Nope grumpy Cat Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

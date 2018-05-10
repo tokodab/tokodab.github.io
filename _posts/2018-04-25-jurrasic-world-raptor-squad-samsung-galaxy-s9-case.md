@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1gEA15-4Lx5LWtRvQPKzMoRRB7aArGFyG
-title: Jurrasic World Raptor Squad Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

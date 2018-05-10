@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1_3960yAfqpRKuIgx7DZpVj0r2OFL6_MX
-title: Marvin The Martian Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1Fwnaw7SGvu7PNJY9TOKv8Uh7ibb662oh
-title: The Beatles Vintage Poster Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

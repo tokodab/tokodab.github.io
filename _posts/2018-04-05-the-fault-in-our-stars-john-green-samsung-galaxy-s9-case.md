@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 14SREN1D47ewx6xQEC-p_HfT6yjXPqcjQ
-title: The Fault in Our Stars- John Green Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

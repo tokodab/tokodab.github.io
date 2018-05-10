@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1fR5DVpY5BKglgdw1VUno3-ADabeLqN_w
-title: Dota 2 Juggernaut Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

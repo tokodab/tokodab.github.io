@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1LtbR5AZ3ChS2oki8ZTemKXXa4-eWJeqj
-title: Saitama Genos Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

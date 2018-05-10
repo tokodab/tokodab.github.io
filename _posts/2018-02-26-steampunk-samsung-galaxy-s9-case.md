@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1tLr2pggOOrR5UfMUK-xQKBLipPBpchqT
-title: Steampunk Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

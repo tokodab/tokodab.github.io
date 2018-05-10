@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1zVEDsRf6Ubhe__Cvw0iYyi2Y41mClYzM
-title: Game of Thrones Oathbreaker Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

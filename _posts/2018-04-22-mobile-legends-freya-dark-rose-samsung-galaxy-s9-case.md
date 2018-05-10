@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1O0vkhM2X4AA9W1FHIP9QmjdbM0np2HUu
-title: Mobile Legends Freya Dark Rose Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

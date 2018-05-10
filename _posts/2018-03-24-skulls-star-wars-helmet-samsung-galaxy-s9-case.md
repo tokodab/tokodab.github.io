@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1ckE_nuuafMSpHJfWYdil1PC1S3vtQBIh
-title: Skulls Star Wars Helmet Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

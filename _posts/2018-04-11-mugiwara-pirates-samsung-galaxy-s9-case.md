@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1dMw-KYJVK3-WJ4eNTtDmXF2eNuBue0w8
-title: Mugiwara Pirates Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 17T1ymH7bHzAj-fZg7kSB6Uk9w6-PL2bV
-title: Pitch Perfect Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

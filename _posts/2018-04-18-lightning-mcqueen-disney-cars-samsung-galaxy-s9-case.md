@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1atKYE6KqOJlX6aYQckmEiOvO-BCcaFT9
-title: Lightning McQueen Disney Cars Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

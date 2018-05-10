@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1jkUflT2ojh2E87wwTtiYBYSGgBSA9Ppw
-title: One Piece Chibi Luffy Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

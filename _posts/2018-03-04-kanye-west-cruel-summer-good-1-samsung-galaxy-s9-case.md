@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1y9aEOOfd3z2QwC8Ffrw9JYn2VNyS_pfI
-title: Kanye West Cruel Summer GOOD 1 Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

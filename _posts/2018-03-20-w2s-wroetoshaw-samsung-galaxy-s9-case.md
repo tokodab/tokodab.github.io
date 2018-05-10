@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1Gd7mUyUxc0gozEUPK6zF1GAL1fplzLY4
-title: W2S Wroetoshaw Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

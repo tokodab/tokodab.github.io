@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1urfDDf6281LI6JwSnRj1EFn-tTzS8ux-
-title: Black Iron Tarkus Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

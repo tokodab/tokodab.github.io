@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 14yVDc5EcXyB2oh0KXCiqaoZATyIdM0iC
-title: Amazing Spiderman Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

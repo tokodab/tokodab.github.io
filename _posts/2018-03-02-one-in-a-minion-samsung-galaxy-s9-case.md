@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1r35Lr4yYZPlpgWCsa-VS2YhTsLX6yj6B
-title: One in a Minion Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

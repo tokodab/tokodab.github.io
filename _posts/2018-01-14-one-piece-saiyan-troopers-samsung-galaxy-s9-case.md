@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 139gGUQbeDWj3QKaC-klw4PZv3kJjyG_7
-title: One Piece Saiyan Troopers Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

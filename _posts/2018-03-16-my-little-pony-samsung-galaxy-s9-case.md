@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1-uYDLkaUDzvJa2IlgK79kCvfrAZ2YY9b
-title: My LIttle Pony Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

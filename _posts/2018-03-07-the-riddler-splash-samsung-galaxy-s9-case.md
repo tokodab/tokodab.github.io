@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1NaP99AWjAApZvLl-QbKJzRvPrYEtOg4h
-title: The Riddler Splash Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

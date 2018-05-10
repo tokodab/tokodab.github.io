@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1q4vBeLtNhZNcsrdD1eHO_Yx2dv9HoFxZ
-title: Movie Star Wars 3 Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

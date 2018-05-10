@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 17gGerM8-7J7eMtbcOjR5bJGbk7t1zMVs
-title: Audrey Hepburn Quotes in Pink Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

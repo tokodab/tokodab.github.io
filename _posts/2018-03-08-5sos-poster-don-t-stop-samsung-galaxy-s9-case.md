@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1bPKTBe9Aop81PeiNH9GCcdp8lq-1njwL
-title: 5SOS Poster Don't Stop Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1evuswg-KuJ80daDxZIajA7flrLKQsEIL
-title: Beautiful The Carole King Musical Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

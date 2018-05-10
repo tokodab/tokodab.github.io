@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1_cItpuFBi1D0iu_9dyHG-DaTc0qUN5ny
-title: Daredevil Black Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

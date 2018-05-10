@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 13m23-s8WDbJNSVVT90uTNzBllYnfyrzn
-title: Alexander Belavin Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1Vm9PorbWxOshAlGcS1nuhfFGuYs8e0ng
-title: Studio Ghibli Movie COllectioin Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

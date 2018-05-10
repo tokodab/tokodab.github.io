@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1GVNGWag2I9mLoHUnDo716urfD3bHcC3u
-title: League Of Legends Sexy Jinx Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

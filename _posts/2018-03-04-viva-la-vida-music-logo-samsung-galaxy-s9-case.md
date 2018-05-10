@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1eY1UGNrjXGcVciGSbSDuVl93sdzGnWHv
-title: Viva La Vida Music Logo Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

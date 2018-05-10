@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1vY6Xf0e8mTQrhi5SqVXJVnn8O3f-Fi-u
-title: Suicide Squad Joker Jared Leto Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

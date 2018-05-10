@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1PYc3Mir8X9DP4f9Aei9slTPSQUwr5bdL
-title: Beauty and The Beast Rose Flower Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

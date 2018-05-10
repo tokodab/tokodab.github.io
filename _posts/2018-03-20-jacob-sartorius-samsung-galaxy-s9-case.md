@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 16ev7E5yP_xxHKkMmG3Un61c03ESCvRYO
-title: Jacob Sartorius Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

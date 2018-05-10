@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1A8PaGYYK-Kwi1tE5d2_BzFLIIzyXr94r
-title: Wonder Woman Logo Dawn Of Justice Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1qc9LvTLuhG1cif9Z2jQRSxBV8w_ULzXp
-title: Angry cat grumpy Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

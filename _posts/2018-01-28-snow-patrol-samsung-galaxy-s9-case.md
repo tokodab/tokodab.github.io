@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1tEplyEaaYOF-UVdETtro8j683uMUJlwD
-title: Snow Patrol Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

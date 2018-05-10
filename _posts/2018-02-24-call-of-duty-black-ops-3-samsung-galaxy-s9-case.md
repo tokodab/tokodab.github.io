@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1_1gDrc1gbZOe7xHGkxVuaCzPvFuck0Qx
-title: Call Of Duty Black Ops 3 Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

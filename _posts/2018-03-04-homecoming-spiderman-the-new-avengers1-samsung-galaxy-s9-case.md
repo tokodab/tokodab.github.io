@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1cA-Yk14lNDNwWKKJ8XJWpMkDMnGmVrIS
-title: Homecoming Spiderman The New Avengers1 Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

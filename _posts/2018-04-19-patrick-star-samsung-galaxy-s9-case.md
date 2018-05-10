@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1MwdaoqTOYUO6r33tWm2yWc3IuzCf0SVj
-title: Patrick Star Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

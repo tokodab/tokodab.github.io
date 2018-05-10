@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1GcALE--Gnz0DszrRXKAyX-usrGVfjDhu
-title: Snoopy Tardis Dr Who Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

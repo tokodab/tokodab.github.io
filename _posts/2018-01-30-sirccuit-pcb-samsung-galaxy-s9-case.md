@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1a_muuBas0MaTB4HiEFZ5DajNCxCf_995
-title: Sirccuit PCB Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

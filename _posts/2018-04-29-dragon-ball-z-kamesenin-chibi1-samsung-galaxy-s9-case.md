@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1rR-lD1d30If86HzB9Sa7ZfFopnCbccyi
-title: Dragon Ball Z Kamesenin Chibi1 Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

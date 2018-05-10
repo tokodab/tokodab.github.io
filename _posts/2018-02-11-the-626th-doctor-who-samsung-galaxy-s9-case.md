@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1TCXKOTcZ4Hbj8BpBfHiVJcRPojTfdgDQ
-title: The 626th Doctor Who Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

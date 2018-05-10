@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1znFd8phivTDKLLsnO3S7YEBbIp1czkyB
-title: Spiderman Deadpool Comics Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

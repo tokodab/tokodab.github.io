@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1Ldzz4GT2nfK5lDjXh-s6SoHjTSXZGMAy
-title: Dota 2 Roshan vs Ursa Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1vePf-jcAcz0ui3oRRF4ZORe25r4wwV_N
-title: Are You Beaver Cuz Dam Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1b6T4IMwsFBS1nug2l75if8iJfON5fKUY
-title: Astrounot Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1LWcZHdWFHhNvbrK_AFeU4F6a_dsgLIyB
-title: Gears of Wars Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----

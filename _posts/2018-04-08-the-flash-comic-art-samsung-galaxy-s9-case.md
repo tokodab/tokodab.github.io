@@ -1,8 +1,0 @@
----
-author: tokodab
-type: product
-featimg: 1vtw1XpM410hjFiTzdtaePPArjzShUbno
-title: The Flash Comic Art Samsung Galaxy S9 Case
-tags: [samsung, galaxy, s9]
-category: [samsung]
----
