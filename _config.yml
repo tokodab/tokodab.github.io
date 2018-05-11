@@ -46,8 +46,10 @@ theme: minima
 exclude:
   - Gemfile
   - Gemfile.lock
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
 
-plugins: [jekyll-paginate]
 # pagination
 paginate: 5
 paginate_path: "/page:num/"
